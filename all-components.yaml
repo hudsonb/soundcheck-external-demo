@@ -3,3 +3,6 @@ kind: Location
 metadata:
   name: all-components
   description: A collection of all SCE demo components
+spec:
+  targets:
+    - ./components.yaml
