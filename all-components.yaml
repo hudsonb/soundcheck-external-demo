@@ -5,4 +5,4 @@ metadata:
   description: A collection of all SCE demo components
 spec:
   targets:
-    - ./components.yaml
+    - ./catalog-info.yaml
