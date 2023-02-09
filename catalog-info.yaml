@@ -5,6 +5,7 @@ metadata:
   description: SCE Demo Component
   annotations:
     sonarqube.org/project-key: wishihadakey
+    pagerduty.com/integration-key: asdjakljdlksajdsjak
 spec:
   type: website
   lifecycle: experimental
