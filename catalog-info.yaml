@@ -3,6 +3,8 @@ kind: Component
 metadata:
   name: soundcheck-external-demo
   description: SCE Demo Component
+  annotations:
+    sonarqube.org/project-key: wishihadakey
 spec:
   type: website
   lifecycle: experimental
