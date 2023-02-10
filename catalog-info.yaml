@@ -3,9 +3,8 @@ kind: Component
 metadata:
   name: soundcheck-external-demo
   description: SCE Demo Component
-  annotations:
-    sonarqube.org/project-key: fdsfdsfsdfds
-    pagerduty.com/integration-key: dsadsadsa
+  tags:
+    - internal
 spec:
   type: website
   lifecycle: experimental
