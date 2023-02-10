@@ -5,6 +5,8 @@ metadata:
   description: SCE Demo Component
   annotations:
     pagerduty.com/integration-key: dsdsadsadsadsa
+  tags:
+    - internal
 spec:
   type: website
   lifecycle: experimental
