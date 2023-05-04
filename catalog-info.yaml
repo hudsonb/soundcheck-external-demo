@@ -9,6 +9,6 @@ metadata:
     - internal
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: production
   owner: toast-infra
   system: soundcheck
