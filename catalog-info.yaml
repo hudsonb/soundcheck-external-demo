@@ -3,12 +3,8 @@ kind: Component
 metadata:
   name: soundcheck-external-demo
   description: SCE Demo Component
-  tags:
-    - internal
-  annotations:
-    pagerduty.com/integration-key: 567530987654321
 spec:
   type: website
-  lifecycle: production
+  lifecycle: experimental
   owner: toast-infra
   system: soundcheck
