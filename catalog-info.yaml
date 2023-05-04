@@ -7,6 +7,6 @@ metadata:
     pagerduty.com/integration-key: 567530987654321A
 spec:
   type: website
-  lifecycle: experimental
+  lifecycle: production
   owner: toast-infra
   system: soundcheck
