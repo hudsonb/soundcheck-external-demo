@@ -6,4 +6,3 @@ metadata:
 spec:
   targets:
     - ./catalog-info.yaml
-    - ./inventory-api.yaml
