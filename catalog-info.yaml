@@ -4,7 +4,7 @@ metadata:
   name: soundcheck-external-demo
   description: SCE Demo Component
   annotations:
-    pagerduty.com/service-id: PPGXHNA
+    pagerduty.com/service-id: PHBEZKU
 spec:
   type: website
   lifecycle: production
