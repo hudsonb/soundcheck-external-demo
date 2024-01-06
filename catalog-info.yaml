@@ -6,7 +6,7 @@ metadata:
   annotations:
     pagerduty.com/service-id: PHBEZKU
 spec:
-  type: website
+  type: backstage-common-library
   lifecycle: production
   owner: toast-infra
   system: soundcheck
