@@ -34,5 +34,8 @@
     "!dist/**/*.map",
     "config.d.ts",
     "migrations/**/*.{js,d.ts}"
-  ]
+  ],
+  "backstage": {
+    "role": "common-library"
+  }
 }
